@@ -1,0 +1,8 @@
+[package]
+name = "poopbot"
+version = "0.1.0"
+authors = ["Cameron Dart <cameron.p.dart@gmail.com>"]
+
+[dependencies]
+rusqlite = "0.15.0"
+slack_api = "0.21.0"
